@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
+
+.app__container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+body {
+  font-family: 'Roboto Mono', monospace;
+  line-height: 1.6;
+  font-size: 1.2rem;
+}
+
+.heading {
+  color: rgb(76, 116, 144);
+  font-size: 3.5rem;
+}
+
+.info-container {
+  background-image: url("assets/arch.jpeg");
+  background-size: cover;
+  padding: 1.6rem 12rem;
+  font-weight: bolder;
+  line-height: 2;
+  border: 10px solid white;
+
+}
+
+.info-text {
+  color: rgb(30, 38, 44);
+  font-size: 1.8rem;
+}
+
+.nav {
+  display: flex;
+  background-color: rgb(76, 116, 144);
+  margin-block-start: 0;
+  padding: 17px 25px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  font-size: 1.7rem;
+  border-radius: 10px;
+  gap: 55%;
+  position: relative;
+}
+
+.link-group {
+  display: flex;
+  gap: 1.5rem
+}
+
+a {
+  text-decoration: none;
+}
+
+.nav a {
+  color: azure;
+  text-decoration: underline;
+}
+
+.blog__posts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+
+.post {
+  max-width: 40rem;
+  border: 2px solid rgb(76, 116, 144);
+  border-radius: 10px;
+  height: 100%;
+}
+
+.image {
+  width: 100%;
+  border-radius: 10px 10px 0 0
+}
+
+.post__info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  padding: 10px;
+  color: black;
+}
+
+.single-post {
+  max-width: 80rem;
+  margin-top: 2rem;
+  border: 2px solid rgb(76, 116, 144);
+  border-radius: 10px;
+  position: relative;
+}
+
+.add-btn,
+.add,
+.edit-btn,
+.check-btn,
+.delete-btn {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 1.2rem;
+  border-radius: 10px;
+  padding: 15px;
+  background-color: rgb(76, 116, 144);
+  color: azure;
+  border: 2px solid azure;
+  cursor: pointer;
+}
+
+.add-btn:hover,
+.add:hover,
+.edit-btn:hover,
+.check-btn:hover,
+.delete-btn:hover {
+  background-color: rgb(73, 200, 204);
+  transition: .2s;
+}
+
+.add-btn:active,
+.add:active,
+.edit-btn:active,
+.check-btn:active,
+.delete-btn:active  {
+  transform: scale(0.93);
+  box-shadow: 3px 2px 25px 1px rgba(0,0,0,0.25);
+  transition: .2s;
+}
+
+.add {
+  max-width: fit-content;
+  margin-left: auto;
+  padding: 15px 30px;
+}
+
+.check-btn {
+  max-width: fit-content;
+  margin-left: auto;
+  padding: 5px 15px;
+  font-size: 1.8rem;
+}
+
+.add-btn,
+.edit-btn {
+  position: absolute;
+  right: 20px;
+  bottom: 10px;
+}
+
+.delete-btn {
+  position: absolute;
+  right: 110px;
+  bottom: 10px;
+}
+
+.form-container {
+  padding: 2rem;
+}
+
+.form__heading {
+  color: rgb(76, 116, 144);
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  border: 2px solid rgb(76, 116, 144);
+  max-width: 60%;
+  padding: 1rem;
+  border-radius: 10px;
+}
+
+.form-input {
+  font-size: 1.2rem;
+  padding: 7px;
+  border: 1px solid rgb(76, 116, 144);
+  border-radius: 10px;
+  background-color: azure;
+}
+
+.form-input:hover {
+  cursor: pointer;
+  background-color: rgb(208, 240, 240);
+  transition: .2s;
+}
+
+.comments {
+  text-decoration: underline;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-left: 1.5rem;
+}

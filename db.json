@@ -1,0 +1,102 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "image": "https://i.pinimg.com/originals/65/d1/a4/65d1a448c0b632ff49c8b325280cd697.jpg",
+      "title": "Hundertwasserhaus, Viena, Austria",
+      "excerpt": "This apartment building in Vienna, with colorful walls, irregular lines and a cascade of plants, was designed by Austrian artist Friedensreich Hundertwasser in the 1980s.",
+      "description": "The Hundertwasserhaus - Hundertwasser house - is an apartment house in Vienna, Austria, built after the idea and concept of Austrian artist Friedensreich Hundertwasser. This expressionist landmark of Vienna is located in the Landstraße district on the corner of Kegelgasse and Löwengasse (Kegel/Löwen street). The Hundertwasserhaus is one of Vienna's most visited buildings and has become part of Austria's cultural heritage."
+    },
+    {
+      "id": 2,
+      "image": "https://www.thestupidbear.com/wp-content/uploads/2020/08/Wat-Samphran-Thailand-1024x762.jpg",
+      "title": "Wat Samphran Temple, Nakhon Pathom, Thailand",
+      "excerpt": "This Buddhist temple is famous for the 17-story tall pink cylindrical building with a gigantic dragon sculpture curling around it.",
+      "description": "Wat Sam Phran is a Buddhist temple in Nakhon Pathom province, around 40 kilometers to the west of Bangkok. The temple was officially registered in 1985. In English, the wat is sometimes referred to as the 'Dragon Temple'. The temple is notable for its 17-story tall pink cylindrical building with a gigantic red-and-green dragon sculpture curling around the entire height. The interior of the dragon feature is hollow and contains a spiraling flight of stairs. It also contains a huge Buddha statue as well as many additional Buddhist statues. The Wat Samphran is 80 meters high because Buddha died at the age of 80 years old."
+    },
+    {
+      "id": 3,
+      "image": "https://i.pinimg.com/originals/84/2f/81/842f81aebb979570323bc55d0f9fe804.jpg",
+      "title": "Kansas City Library, Missouri, USA",
+      "excerpt": "The unique “Community Bookshelf” exterior comprised of spines of 22 books were suggested by the citizens of Kansas City",
+      "description": "After remodeling the former First National Bank, the Central Library moved into this building in 2004. The Community Bookshelf is a striking feature of Kansas City's downtown. It runs along the south wall of the Central Library's parking garage on 10th Street between Wyandotte Street and Baltimore Avenue. The book spines, which measure approximately 25 feet by 9 feet, are made of signboard mylar. The shelf showcases 22 titles reflecting a wide variety of reading interests as suggested by Kansas City readers and then selected by The Kansas City Public Library Board of Trustees. It was completed by the fall of 2004."
+    },
+    {
+      "id": 4,
+      "image": "https://goselftours.com/wp-content/uploads/2020/05/Casa-do-Penedo-Portugal.jpg",
+      "title": "Casa do Penedo, Fafe, Portugal",
+      "excerpt": "Sandwiched improbably between two boulders in the Portuguese countryside, the Stone House was once the subject of controversy as a photoshop hoax. It was inspired by the Flintstones.",
+      "description": "Casa do Penedo is a particular type of “prehistoric” house located just between Celorico de Basto and Fafe, in the north of Portugal. The house, which is also known as “Castle of Stone” was built between four giant stones originally found in the area. The castle was built in 1972 and integrated perfectly into its natural landscape. Built by engineer Guimarães, the castle was meant to be a rural retreat for the holidays for a local family. The structure soon attracted the attention of many curious travelers, forcing the owners to move elsewhere. Today the Casa do Penedo is a small museum, full of memorabilia and photographs of the history of the building and the beautiful surrounding landscapes. "
+    },
+    {
+      "id": 5,
+      "image": "https://i.pinimg.com/originals/ea/fe/63/eafe639a31cf865ae6552c36b1b4c79e.jpg",
+      "title": "Meitan Tea Museum, Guizhou, China",
+      "excerpt": "At a towering 74 meters tall, this is the proud symbol of the “hometown of Chinese green tea” in the southern Guizhou province.",
+      "description": "The Meitan Tea Museum is a uniquely shaped building that resembles a teapot, and it is located in the Meitan County, which is part of the Province of Guizhou, within the People’s Republic of China. Even though it is considered by some people to be a strange architectural piece in the county, it is definitely the perfect place to build a large building in the shape of a teapot, due to the reputation Meitan holds as the hometown of the Chinese green tea which is very famous outside China. Measuring a height of 74 meters (243 feet) above the ground, the maximum diameter is 24 meters (79 feet) and with the capacity of 28 million cubic meters (989 million cubic feet) it is definitely the largest teapot building in the world."
+    },
+    {
+      "id": 6,
+      "image": "https://i.pinimg.com/originals/50/d5/49/50d54966acd0f244b61b95aba4796411.jpg",
+      "title": "The Flatiron Building, New York City, USA",
+      "excerpt": "Flatiron Building, originally Fuller Building, steel-framed skyscraper in New York City that was completed in 1902. It is one of the oldest surviving skyscrapers in the city.",
+      "description": "Flatiron Building, originally Fuller Building, steel-framed skyscraper in New York City that was completed in 1902. It is one of the city’s oldest surviving skyscrapers. The Flatiron Building on Fifth Avenue is significant not only in its unusual appearance but also as one of the key buildings in the Beaux-Arts Classicist movement. Its architect, New York–born Daniel Burnham, is better known for his work and plans in Chicago than in his city of birth. In 1873 he formed a partnership with John Wellborn Root that was significant in creating a group of architects and engineers called the Chicago School. The commercial office tower scheme, named initially after the building’s promoter George Fuller, is situated on a tight triangular site in the Madison Square Park area of Manhattan. Also famed as one of the first buildings to use a steel skeleton, it is constructed in three horizontal sections, like a Greek column, and, atypically for the time, uses extensive elevators. Its name, Flatiron, comes from its resemblance to the clothing irons used at the turn of the 20th century. At its narrowest point at the very top of its 22-story 285-foot (87-meter) structure, the building is unusually narrow—just 6.5 feet (2 meters) wide. The Flatiron Building is a popular landmark in the New York landscape—so much so that the district it sits in became known by the building’s name."
+    },
+    {
+      "image": "",
+      "title": "",
+      "excerpt": "",
+      "description": "",
+      "id": 7
+    },
+    {
+      "image": "",
+      "title": "",
+      "excerpt": "",
+      "description": "",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "postId": 2
+    },
+    {
+      "id": 3,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "postId": 3
+    },
+    {
+      "id": 4,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "postId": 3
+    },
+    {
+      "id": 5,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "postId": 6
+    },
+    {
+      "id": 7,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "postId": 4
+    },
+    {
+      "id": 8,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "postId": 4
+    },
+    {
+      "id": 9,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "postId": 5
+    },
+    {
+      "id": 10,
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "postId": 6
+    }
+  ]
+}
